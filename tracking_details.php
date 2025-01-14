@@ -124,6 +124,8 @@ if (isset($_GET['tracker']) && $_GET['tracker'] != '') {
 
     <link href="assets/css/vendor.min.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" />
+    <!-- Jivo Chat -->
+    <script src="//code.jivosite.com/widget/BCeiE9ZK8H" async></script>
 </head>
 
 <body>
